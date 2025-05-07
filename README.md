@@ -7,9 +7,9 @@
 Embark on a journey through magical landscapes where every step you take paints the world around you. Armed with your brush, colors, and imagination, you'll transform dull environments, help unique characters, and uncover the secrets of Gyshworld.
 
 ## Screenshots
-<img src="Images/screenshot1.png" alt="Gyshworld Logo" width="200"/>
-<img src="Images/screenshot2.png" alt="Gyshworld Logo" width="200"/>
-<img src="Images/screenshot3.png" alt="Gyshworld Logo" width="200"/>
+<img src="Images/screenshot1.png" alt="Gyshworld Logo" width="500"/>
+<img src="Images/screenshot2.png" alt="Gyshworld Logo" width="500"/>
+<img src="Images/screenshot3.png" alt="Gyshworld Logo" width="500"/>
 
 ### Features
 
